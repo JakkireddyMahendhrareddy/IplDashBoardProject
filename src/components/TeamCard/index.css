@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.about-container {
+  display: flex;
+  flex-direction: row;
+  height: 30vh;
+  width: 20vw;
+  background-color: #ffffff33;
+  border: 2px solid transparent;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 20px;
+  justify-content: center;
+  align-items: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-decoration: none;
+}
+.image {
+  height: 12vh;
+  width: 7vw;
+  margin-right: 10px;
+}
+.about-paragraph {
+  color: white;
+  font-size: 20px;
+  font-family: 'Roboto';
+  text-decoration: none;
+}
+.lis {
+  list-style-type: none;
+}
